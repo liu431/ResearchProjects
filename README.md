@@ -1,2 +1,2 @@
 # EconResearch
-Collections of past and ongoing projects in economics
+Collections of previous and ongoing projects in Economics
