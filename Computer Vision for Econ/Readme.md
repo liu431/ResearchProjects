@@ -1,0 +1,2 @@
+Computer Vision has enabled numerous engineering applications such as autonomous vehicles and medical robotics. Meanwhile, many social scientists are applying the contemporary data analysis techniques in their researches and projects (a.k.a, Computational Social Science), such as text mining and machine learning. The focus of this project is to explore how computer vision are currently used in several projects, and what are potential opportunities and problems of this new approach.
+
