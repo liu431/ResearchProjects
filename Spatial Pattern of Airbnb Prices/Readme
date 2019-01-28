@@ -1,1 +1,4 @@
-Class project for Spatial Data Science courses
+GIS Project for Data Spatial Analysis Course, October 2018 – December 2018
+
+->Identified and visualized the spatial clusters, outliers, and principal components for socioeconomic factors  
+->Performed local spatial auto-correlation and sensitivity analysis with K-Nearest neighbors spatial weights	
