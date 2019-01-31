@@ -1,4 +1,4 @@
 GIS Project for Data Spatial Analysis Course, October 2018 – December 2018
 
-->Identified and visualized the spatial clusters, outliers, and principal components for socioeconomic factors  
-->Performed local spatial auto-correlation and sensitivity analysis with K-Nearest neighbors spatial weights	
+->Discovered and visualized the spatial clusters and principal components for socioeconomic factors
+->Performed local spatial auto-correlation and sensitivity analysis to model the factors of Airbnb rental rates
