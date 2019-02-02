@@ -1,5 +1,10 @@
 ### Collections of previous and ongoing formal projects  
 
+##### Nonresponse in ACS Citizenship Question: Characteristics of Respondents 
+What are the demographic characteristics of the people who do not respond to the citizenship question?
+Analyzing the IPUMS data from the American Community Survey between (ACS) 2013 and 2017 in Stata
+
+
 
 ##### Spatial Pattern of Airbnb Prices	
 Discovered and visualized the spatial clusters and principal components for socioeconomic factors
