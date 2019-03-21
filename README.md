@@ -1,7 +1,6 @@
 ### Collections of previous and ongoing formal projects  
 
-##### Nonresponse in ACS Citizenship Question: Characteristics of Respondents (In Progress, Spring 2019)
-What are the demographic characteristics of the people who do not respond to the citizenship question?
+##### Nonresponse in ACS Citizenship Question: Characteristics of Non-Respondents (Spring 2019)
 Analyzing the IPUMS data from the American Community Survey between (ACS) 2013 and 2017 in Stata
 
 
