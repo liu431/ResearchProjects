@@ -1,4 +1,4 @@
-### Collections of previous and ongoing formal projects  
+### Previous and ongoing research projects  
 
 
 ##### Econ PhD Placement Research	(Fall 2019)
@@ -15,7 +15,7 @@ Performing local spatial auto-correlation and sensitivity analysis to model the 
 Predicting Job Placements of Economics Graduate Programs
 
 ##### Computer Vision for Econ (Spring 2018)
-Exploring how computer vision are currently used in several projects, and what are potential opportunities and problems of this new approach.
+Exploring the potential opportunities and problemshow of applying computer vision to social science research
 
 ##### Computational Macroeconomics (Fall 2017)
 Simulating Tax Reform of Health Care in Canada with Macroeconomics models using MATLAB 
