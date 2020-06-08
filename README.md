@@ -1,5 +1,7 @@
 ### Previous and ongoing research projects  
 
+#### Causal Effect of Amazon Verified Purchase Label (Winter 2020)
+Use propensity score matching to find whether reviews with verified purchase labels are more trustworthy
 
 ##### Econ PhD Placement Research	(Fall 2019)
 Using network analysis to analyze job placements of Economics Graduate Programs
