@@ -1,4 +1,4 @@
-## GIS Project for Data Spatial Analysis Course, October 2018 – December 2018
+## Spatial Patterns of Airbnb Rents and Crime Rates in Chicago 
 
 1. Discovered and visualized the spatial clusters and principal components for socioeconomic factors
 
